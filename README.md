@@ -1,5 +1,5 @@
 # Tel-U Logo
-Logo-logo Universitas Telkom beserta logo-logo fakultas di dalamnya
+Varian logo Universitas Telkom beserta fakultas-fakultas di dalamnya
 
 ## Lisensi
 ```
