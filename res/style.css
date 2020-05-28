@@ -25,6 +25,33 @@ body {
   border-radius: 5px;
 }
 
+.wrapper a {
+  color: #424242;
+}
+
+.wrapper .button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 15px 30px;
+  background: #e0e0e0;
+  border: 1px solid #9e9e9e;
+  border-radius: 5px;
+}
+
+.wrapper .button:hover {
+  background: #bdbdbd;
+}
+
+.wrapper .button:active {
+  background: #9e9e9e;
+}
+
+.far,
+.fas,
+.fab {
+  margin-right: 5px;
+}
+
 @media (min-width: 768px) {
   .container {
     width: 750px;
