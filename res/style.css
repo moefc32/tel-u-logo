@@ -30,7 +30,7 @@ body {
 }
 
 .wrapper .button {
-  display: inline-block;
+  display: block;
   margin-top: 15px;
   padding: 5px 10px;
   background: #e0e0e0;
